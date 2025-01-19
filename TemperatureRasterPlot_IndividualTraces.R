@@ -3,8 +3,7 @@ library(ggplot2)
 library(cetcolor)
 library(dplyr)
 
-setwd("~/Documents/Research/PlacentalAtlas/ToSubmit/DataandScripts/")
-test <- read.csv("CleanedTempFiles/167DAA18_PTT2-B7.csv")
+test <- read.csv("CleanedTempFiles/INDIVIDUAL_FILE_NAME_HERE.csv")
 dates <- read.csv("MasterFile.csv", header = TRUE)
 
 ID <- test$Tag.ID[1]
