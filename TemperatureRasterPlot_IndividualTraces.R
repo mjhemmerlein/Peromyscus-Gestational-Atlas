@@ -4,7 +4,7 @@ library(cetcolor)
 library(dplyr)
 
 test <- read.csv("CleanedTempFiles/INDIVIDUAL_FILE_NAME_HERE.csv")
-dates <- read.csv("MasterFile.csv", header = TRUE)
+dates <- read.csv("MetaData_forTemperatureExperiments.csv", header = TRUE)
 
 ID <- test$Tag.ID[1]
 test$startDate <- dates$StartDate[which(dates$PT.ID==ID)]
