@@ -1,0 +1,88 @@
+Maternal ID,Pair ID,Thelier Stage,Day of Gestation,Slide ID,Process # ,Decidual Area,Decidua Center Line,Decidua Left Line,Decidua Right Line,ZO-1 in Decidua?,ZO has diffrential conc/intensity?,ZO-1 Band Area,Large Vasculature in ZO-1 Band?,ZO-1 Center Line,ZO-1 Left Line,ZO-1 Right Line,Notes/Observations
+KG4I1,KCSUKI,14-15,11.5,1.7B,2035,6136416.864,1525.062,1379.334,1211.47,0,1,2777947.635,0,727.043,299.796,917.574,*Circular/small cavity *glandular *strong ZO on opposite side/diffuse ZO in decidua *Band is not really evident hence 1/00
+KG4I1,KCSUKI,14-15,11.5,1.7B,2037,6132894.217,1474.313,1278.104,1273.591,0,1,3581289.113,0,1100.627,460.928,981.992,*Circular/small cavity *glandular *strong ZO on opposite side/diffuse ZO in decidua *Band is not very discrete
+KG4I1,KCSUKI,14-15,11.5,1.7B,2039,6691415.49,1498.53,1308.987,1270.505,0,1,2401281.034,0,695.08,236.329,482.586,*Circular/small cavity *glandular *strong ZO on opposite side/diffuse ZO in decidua *Band is not very discrete
+KG4I1,KCSUKI,14-15,11.5,2.7B,2063,9820811.482,2351.429,2331.497,1294.311,0,1,NA,0,NA,NA,NA,*Circular/small cavity *glandular *strong ZO on opposite side/diffuse ZO in decidua *Band is not discernible *Weird decidual shape
+KG4I1,KCSUKI,14-15,11.5,2.7B,2065,9216725.072,2080.345,2392.479,1272.107,0,1,NA,0,NA,NA,NA,*Circular/small cavity *glandular *strong ZO on opposite side/diffuse ZO in decidua *Band is not discernible *invasive JZ *weird decidual shape
+KG4I1,KCSUKI,14-15,11.5,2.7B,2067,9508156.502,2143.446,2387.513,1226.077,0,0,NA,0,NA,NA,NA,*Circular/small cavity *glandular *strong ZO on opposite side/diffuse ZO in decidua *Band is not discernible *invasive JZ *weird decidual shape
+KG5H1,KCSUK5D,16-17,12.5,1.5A,1967,7919720.675,1651.319,1465.689,1537.906,0,0,NA,0,NA,NA,NA,*Circular *Strong ZO-1 all sides *PINK EVERYWHERE (zo band = decidual measurements) *Very glandular *Some ZO in JZ/LZ
+KG5H1,KCSUK5D,16-17,12.5,1.5A,1968,8602935.154,1813.234,1451.895,1433.271,0,0,NA,0,NA,NA,NA,*Circular *Strong ZO-1 all sides *PINK EVERYWHERE (zo band = decidual measurements) *Very glandular *Some ZO in JZ/LZ
+KG5H1,KCSUK5D,16-17,12.5,1.5A,1970,7927950.723,1664.833,1422.617,1490.169,0,0,NA,0,NA,NA,NA,*Circular *Strong ZO-1 all sides *PINK EVERYWHERE (zo band = decidual measurements) *Very glandular *Some ZO in JZ/LZ
+KG5H1,KCSUK5D,16-17,12.5,3.5D,2047,8237377.242,1935.069,1675.436,1268.295,0,1,6062256.664,0,1430.912,1260.444,870.533,*Circular/small cavity *glandular *strong ZO on opposite side *Pink diffuse throughout
+KG5H1,KCSUK5D,16-17,12.5,3.5D,2157,7821572.08,1881.144,1621.428,1272.393,0,1,NA,0,NA,NA,NA,*Circular/small cavity *glandular *strong ZO on opposite side *Pink diffuse throughout (band = decidua but no evident true band)
+KG5H1,KCSUK5D,16-17,12.5,3.5D,2158,8990546.492,1971.416,1682.176,1488.987,0,1,*,0,NA,NA,NA,*Circular/small cavity *glandular *strong ZO on opposite side *Pink diffuse throughout (band = decidua but no evident true band) *some ZO in LZ
+KG5P3,KCSUK5O,16-17,12.5,1.8A,1976,5061679.383,1761.51,1236.974,1263.554,1/0 (no true band?),1,2099569.105,0,452.482,566.591,497.392,*Small cavity *weird stuff coming of decidua *ZO-1 stain in LZ/JZ * glandular *Very indiscrete band *strong staining on other side but weaker on decidual side
+KG5P3,KCSUK5O,16-17,12.5,1.8A,1979,5553882.329,1737.912,1361.247,1282.5,0,1,3045349.367,0,940.988,795.461,678.945,*Small cavity *weird stuff coming of decidua *ZO-1 stain in LZ/JZ * glandular *Very indiscrete band *strong staining on other side but weaker on decidual side
+KG5P3,KCSUK5O,16-17,12.5,1.8A,2186,5571231.305,1825.717,1380.664,1323.089,0,1,2699510.536,0,890.747,745.837,651.418,*Small cavity *weird stuff coming of decidua *ZO-1 stain in LZ/JZ * glandular *Very indiscrete band *strong staining on other side but weaker on decidual side
+KG5P3,KCSUK5O,16-17,12.5,2.8A,2149,8647947.744,1675.814,1480.546,1579.165,0,1,4575955.275,0,775.858,817.519,1113.863,*Circular *glandular *strong ZO staining on opposite side of decidua *ZO in LZ/JZ
+KG5P3,KCSUK5O,16-17,12.5,2.8A,2150,8746974.261,1620.817,1457.342,1608.244,1,1,5024634.265,0,937.452,1004.58,958.919,*Circular *glandular *strong ZO staining on opposite side of decidua *ZO in LZ/JZ
+KG5P3,KCSUK5O,16-17,12.5,2.8A,2152,8369052.1,1825.82,1513.103,1428.407,1,1,5074038.152,0,1108.229,1013.37,810.669,*Circular *internal tearing * Strong ZO stain on opposite side *ZO in JZ/LZ
+KG4N1,KCSUKN,18-19,13.5,1.7G,2029,2379955.067,593.919,548.319,421.839,1,1,NA,0,NA,NA,NA,*No discrete band - PINK EVERYWHERE *(ZO measurements would be same as decidua measurements) *Very glandular 
+KG4N1,KCSUKN,18-19,13.5,1.7G,2030,3919849.756,747.887,752.561,703.774,1,1,2558450.622,1,555.721,475.397,464.571,*Fair example for earlyish ges *Tearing at top of placenta *some glandular tissue
+KG4N1,KCSUKN,18-19,13.5,1.7G,2031,3318365.08,631.078,597,608.131,1,1,2393890.555,0,501.249,383.602,456.695,*Fair example *some glandular 
+KG4N1,KCSUKN,18-19,13.5,3.7C,2093,4544592.839,852.555,879.586,679.725,1,1,3113507.542,0,733.682,611.497,451.915,*glandular tissue * circular placenta 
+KG4N1,KCSUKN,18-19,13.5,3.7C,2094,4693573.683,954.223,882.143,746.244,1,1,3291967.984,0,759.7,534.72,537.212,*glandular *cicrular
+KG4N1,KCSUKN,18-19,13.5,3.7C,2095,4887111.086,951.409,964.435,834.465,1,1,3400502.446,0,662.441,732.472,693.608,*circular *glandular * ZO-1 stain in LZ/JZ
+KG5H16,PT-B5,18-19,13.5,1.8A,2193,4526221.377,723.43,654.071,571.892,1,0,NA,0,NA,NA,NA,*Circular *glandular *PINK everywhere - ZO band meas. same as decidual meas. *ZO-1 stain in LZ/JZ
+KG5H16,PT-B5,18-19,13.5,2.8A,2198,4907096.357,867.636,876.867,711.834,1,1,4872619.678,0,NA,NA,NA,*Circular *glandular *PINK everywhere - ZO band line meas. same as decidual line meas. *ZO-1 stain in LZ/JZ
+KG5H16,PT-B5,18-19,13.5,2.8A,2200,4930327.37,895.771,699.931,826.967,1,0,4887983.529,0,NA,NA,NA,*Circular *glandular *PINK everywhere - ZO band line meas. same as decidual line meas. *ZO-1 stain in LZ/JZ
+KG5H16,PT-B5,18-19,13.5,2.8A,2201,3935401.161,678.891,672.874,593.766,1,1,2787840.383,0,348.943,467.316,489.507,*Circular *some glands *ZO stain in JZ/LZ *JZ is weird and invasive
+KG4C1,KCSUKC,20,14.5,3.5C,2023,5110298.914,1160.783,942.675,1040.059,1,1,2686335.621,1,420.686,629.23,541.439,*Glandular and vessels *vessels w/ cyto above decidua * Pink/zo-1 stain dispersed throughout entire decidua
+KG4C1,KCSUKC,20,14.5,3.5C,2024,5121485.996,1205.03,1033.747,955.859,1,1,2707467.712,1,346.874,595.241,763.508,*Glandular *vasculature w/ cyto above decidua *lots of pink present throughout decidua (Not included in band) 
+KG4C1,KCSUKC,20,14.5,3.5C,2026,5964298.574,1196.259,1130.692,866.657,1,1,2822703.971,1,217.523,683.145,439.969,*Some glandular tissue * vasculature w/ cyto above decidua * lots of pink dispersed throughout decidua (excluded from band) *Small junctional zone
+KG4C1,KCSUKC,20,14.5,3.5D,2054,5226220.905,1215.815,910.891,826.471,1,1,3197836.842,1,520.962,748.964,624.461,*vasculature w/ cyto above decidua *broad band *lots of pink throughout 
+KG4C1,KCSUKC,20,14.5,3.5D,2055,6091534.509,1195.535,899.287,740.732,1,1,3299065.963,1,302.591,767.155,608.534,*lots of pink dispersed throughout
+KG4C1,KCSUKC,20,14.5,3.5D,2056,5861614.117,1171.795,893.022,775.596,1,0,NA,1,NA,NA,NA,*No discrete band - PINK EVERYWHERE *(ZO measurements would be same as decidua measurements
+KG4C1,KCSUKC,20,14.5,4.5A,2089,5411526.153,1127.455,990.282,1219.211,1,1,4656275.683,0,678.091,919.193,1140.055,*Very broad band (takes up most of decidua) *vasculature w/ cyto above decidua * relatively well developed gland on top
+KG4C1,KCSUKC,20,14.5,4.5A,2090,5146423.541,1184.154,1180.915,943.26,1,0,5084872.042,0,NA,NA,NA,*No discrete band - PINK EVERYWHERE *(ZO line measurements would be same as decidua line measurements) *Zo area is diff b/c of a black spot at edge of decidua (this area was subtracted from decidual area to get the ZO area) *vasculature above decidua - gland remnants present
+KG4C1,KCSUKC,20,14.5,4.5A,2091,5209129.447,1021.62,1368.783,897.557,1,1,5101222.133,0,NA,NA,NA,*No discrete band - PINK EVERYWHERE *(ZO line measurements would be same as decidua line measurements) *Zo area is diff b/c of a black spot at edge of decidua (this area was subtracted from decidual area to get the ZO area) *vasculature above decidua - gland remnants present
+KG4J1,KCSUKJ,21,15.5,3.5A,2008,4855827.465,1234.792,1032.24,942.649,1,1,2317862.399,Jan-00,372.647,562.214,393.454,*Fair example for mid ges. *VERY glandular (lots in Zo-1band)
+KG4J1,KCSUKJ,21,15.5,3.5A,2010,6248841.917,1581.469,1220.554,1122.489,1,1,3031423.15,Jan-00,677.91,697.249,755.677,*Large band w/ glandular tissue * Extensive tearing along top edge (extrapolated decidual zone) *One vessel excluded from ZO 
+KG4J1,KCSUKJ,21,15.5,3.5A,2183,7100845.494,1674.955,1394.497,1376.32,1,1,3614952.355,Jan-00,479.151,775.242,790.794,*Large band w/ glandular tissue * tearing along top edge (extrapolated decidual zone) *two vessels excluded from ZO 
+KG4J1,KCSUKJ,21,15.5,3.5B,2059,5596238.814,1286.707,1133.523,1043.925,1,1,2538019.014,0,553.179,653.166,425.912,*Glandular tissue included in ZO * 
+KG4J1,KCSUKJ,21,15.5,3.5B,2060,6413713.028,1526.971,1199.741,1225.732,1,1,3360984.141,1,586.351,820.097,529.81,*Glandular tissue included in ZO * very broad band on left side *few vessels excluded
+KG4J1,KCSUKJ,21,15.5,3.5B,2061,6760948.37,1561.993,1207.526,1215.316,1,1,3546969.642,1,634.937,794.647,734.256,*Glandular *few vessels
+KG5H2,KCSUK5F,22,16.5,1.7D,1992,5752853.747,885.899,1064.264,853.627,1,1,1979398.695,1,204.537,374.07,385.634,*Large vasculature bisecting ZO-1 band
+KG5H2,KCSUK5F,22,16.5,1.7D,1993,6243262.495,984.26,926.419,1163.391,1,1,1908928.466,Jan-00,228.529,389.524,419.754,*Large vasculature bisecting ZO-1 band *Glandular tissue included in ZO measurement
+KG5H2,KCSUK5F,22,16.5,1.7D,1994,6857542.538,1116.83,1147.81,1273.798,1,1,2756604.387,0,376.683,431.081,506.565,*Lots of glandular tissue (very long one) included in ZO-1 area. * Large vasculature above decidua
+KG5H2,KCSUK5F,22,16.5,5.7D,2120,7455477.215,1419.988,993.936,1298.425,1,1,2027560.931,1,257.086,280.458,348.014,*Weird vasculature lined in GFP in middle of decidua
+KG5H2,KCSUK5F,22,16.5,5.7D,2121,8168336.639,1371.136,1459.751,1137.459,1,1,3181783.045,1,459.639,727.154,418.09,*Broad/concentrated ZO-1 band. *Glandular tissue included in ZO * 
+KG5H2,KCSUK5F,22,16.5,5.7D,2133,7344343.125,1345.168,966.034,1387.057,1,1,2099459.522,1,368.75,171.391,454.564,*Blood vessels w/ cyto above decidua
+KG4P1,KCSUKP,22,16.5,2.6E,2014,5084348.154,1470.63,1219.862,1227.002,1,1,1486674.39,1,253.194,320.732,340.187,*Strange decidual shape (valley instead of hill) * Disperse ZO staining outside of band 
+KG4P1,KCSUKP,22,16.5,2.6E,2016,4706832.712,1447.733,1210.122,1116.637,1,1,1590325.277,0,455.76,401.253,346.677,*Glandular tissue included in ZO * 
+KG4P1,KCSUKP,22,16.5,2.6E,2017,3405671.777,1119.824,1075.327,1010.437,1,1,1393454.045,0,342.831,490.801,280.518,*Large/broad ZO band * Prettyish
+KG4P1,KCSUKP,22,16.5,3.6D,2144,3773930.47,1172.572,934.932,805.084,1,1,981855.577,1,196.748,208.396,149.34,*Strange vasculature/glands in decidua (CHECK) *somewhat developed upper gland
+KG4P1,KCSUKP,22,16.5,3.6D,2145,4310095.282,1230.903,1071.199,1188.084,1,1,1244586.998,1,249.326,188.919,284.359,*Strange vasculature/glands in decidua (CHECK) *somewhat developed upper gland
+KG4P1,KCSUKP,22,16.5,3.6D,2148,4872144.26,1277.693,1265.96,1086.801,1,1,1296260.923,1,268.772,159.705,222.029,*Weird placental shape - somewhat well developed upper gland *Weird fiber thing distorting image *BAD do not use as example
+KG4M1,KCSUKM,22.5,17.5,1.7D,2000,4532014.063,1023.003,1337.798,860.038,1,1,1529858.22,1,318.747,272.98,492.498,*Large ZO-1 band *Weird extra stuff (not included in decidua)
+KG4M1,KCSUKM,22.5,17.5,1.7D,2002,4894681.533,1311.597,1474.606,1198.856,1,1,1139558.325,1,239.399,270.151,327.09,*ZO-1 large also diffuse in middle
+KG4M1,KCSUKM,22.5,17.5,1.7D,2003,4954861.99,1339.289,1175.937,1035.871,1,1,1748979.283,1,387.485,439.048,383.813,*Large ZO-1 diffuse 
+KG4M1,KCSUKM,22.5,17.5,1.7E,2212,4744497.392,1189.504,1136.998,945.903,1,1,1800312.239,1,355.604,831.448,390.157,*Large ZO - middle is diffuse 
+KG4M1,KCSUKM,22.5,17.5,1.7E,2213,5473663.917,1085.323,1337.506,1064.713,1,1,2105117.759,1,545.365,669.403,462.211,*Extra stuff not included in decidua *(possible glandular area)
+KG4M1,KCSUKM,22.5,17.5,1.7E,2215,5298140.991,1276.441,1271.378,911.52,1,1,2708833.697,1,472.801,865.403,594.878,*WEIRD ZO-1 band (very non discrete)
+KG4M1,KCSUKM,22.5,17.5,2.7E,2135,5423042.825,1192.104,1168.599,938.956,1,1,1933155.834,1,275.276,433.029,233.715,*Large vasculature above decidual zone. *Non-discrete ZO-1
+KG4M1,KCSUKM,22.5,17.5,2.7E,2136,5279891.334,1028.816,1060.222,1044.187,1,1,1606226.081,1,262.395,286.724,325.463,*Large vasculature above decidual zone (looks like starry night) 
+KG4M1,KCSUKM,22.5,17.5,2.7E,2137,4946075.602,1200.911,1131.593,999.257,1,1,1585925.129,1,313.443,346.694,336.688,*Large vasculature above decidual zone *discrete ZO (compared to the processes under same ID)
+KG5P2,KCSUK5K,23,18.5,2.8D,2141,4997149.775,1173.767,929.665,908.905,1,1,621561.405,1,132.438,199.956,109.098,*Lots of vessels in ZO-1 band *Huge vessel spanning all three zones
+KG5P2,KCSUK5K,23,18.5,2.8D,2142,4825488.78,1127.027,966.02,981.632,1,1,719719.694,1,251.892,59.952,185.678,*Relatively discontinuous ZO-1 Band
+KG5P2,KCSUK5K,23,18.5,2.8D,2143,3954154.896,939.407,1040.03,919.352,1,1,547515.845,1,85.695,189.569,168.799,*Relatively discontinuous ZO-1 Band
+KG5P2,KCSUK5K,23,18.5,1.8D,2004,1469314.035,455.744,611.553,373.943,1,1,204308.073,1,79.203,54.533,42.848,*Very diffuse ZO-1 band CHECK
+KG5P2,KCSUK5K,23,18.5,1.8D,2005,3835916.084,799.823,877.728,747.887,1,1,639752.057,1,110.365,116.857,241.505,*large vasculature dividing band - small area included in area measurement 
+KG5P2,KCSUK5K,23,18.5,1.8D,2006,4388184.427,1012.817,1302.31,806.315,1,1,851797.9,1,163.6,198.657,107.768,*Large vasculature displacing JZ * Red lining placenta
+KG5P2,KCSUK5K,23,18.5,1.8D,2184,4039136.764,826.441,1283.002,714.778,1,1,728816.706,1,150.665,229.878,102.575,*Large vasculature displacing JZ * Tearing at top of placenta
+KG5F1,KCSUK5M,24,19.5,3.4D,2216,5868413.273,1277.64,1445.141,1059.535,1,0,738270.281,1,334.991,62.324,322.017,*Large vasculature above and outside of decidual area. *Large amounts of singularly red areas on left and right side of decidual area
+KG5F1,KCSUK5M,24,19.5,2.4D,1986,2570454.549,1067.298,907.626,942.65,1,1,358055.973,1,177.244,194.762,155.81,*Upper decidua appears to be torn (extrapolated true decidual area)
+KG5F1,KCSUK5M,24,19.5,2.4D,1989,3201617.43,1090.668,903.831,868.639,1,1,358711.552,1,91.538,183.118,97.401,*ZO-1 Band is very faint (not discrete) *Lots of large vasculature throughout
+KG5F1,KCSUK5M,24,19.5,2.4D,2182,1842363.157,930.963,592.077,716.725,1,1,296062.965,1,75.308,143.475,154.511,*Very similar to process_1986. May be some tearing top left. Non-discreet band on right side. 
+KG5P1,KCSUK5C,25,20.5,1.7F,2114,3033914.039,877.081,814.755,1124.475,1,1,657254.869,1,186.973,360.959,319.434,*Small torn area right top/extrapolated decidual area here. *Large zo-1 band 
+KG5P1,KCSUK5C,25,20.5,1.7F,2115,3435738.193,1082.878,1048.002,814.83,1,0,769846.824,1,264.877,259.683,202.553,*Big vasculature dividing the ZO-1 band (I just cut around the bottom edge. 
+KG5P1,KCSUK5C,25,20.5,1.7F,2117,3654672.122,1153.229,966.146,1033.538,1,1,723379.741,1,324.645,153.235,155.81,*Weird bright spot on top right side of decidua. *Huge vasculature dividing ZO-1 band. Crossed vasculature to connect ZO/measured and ZO island in middle of this vessel. 
+KG5P1,KCSUK5C,25,20.5,3.7B,2202,2410999.714,930.372,716.867,636.872,1,1,358311.998,1,88.944,100.629,133.737,*Relatively diffuse ZO band
+KG5P1,KCSUK5C,25,20.5,3.7B,2205,3440738.514,1225.705,624.732,1309.568,1,0,473900.184,1,177.883,106.472,190.405,*2 large vasculature zones lining the junctional zone (I counted them as part of the decidua)
+KG5P1,KCSUK5C,25,20.5,3.7B,2206,3483392.146,1124.728,841.382,1375.072,1,0,525593.61,1,353.169,70.114,109.162,*Large vasculature bordering JZ counted in decidual area
+KG5J15,PT-B3,26,21.5,1.5C,2099,3406792.888,736.201,584.287,655.699,1,1,295545.19,1,111.664,172.709,129.841,*True dicountinuous band (took to seperate measurements and averaged them out for ZO Area) * large vasculature above/outside of decidua
+KG5J15,PT-B3,26,21.5,1.5C,2102,2912300.937,363.565,560.915,428.477,1,1,178798.452,1,116.886,109.067,66.872,*True discountinuous band (took seperate measurements for 3 and recorded average) *band diffuse in areas
+KG5J15,PT-B3,26,21.5,1.5C,2164,2288354.853,342.135,475.869,412.259,1,1,178708.679,1,107.137,134.442,153.213,*ZO-1 average of 3 diff areas-band discontinous
+KG5J15,PT-B3,26,21.5,3.5F,2109,3930928.52,823.211,689.458,667.385,1,0,751377.581,1,87.643,233.715,151.927,*Tearing *Long ZO-1 band lots of pink 
+KG5J15,PT-B3,26,21.5,3.5F,2110,3849570.452,827.013,793.883,618.069,1,1,962023.721,1,186.282,218.446,234.021,*Tearing *vasculature spanning all zones
+KG5J15,PT-B3,26,21.5,3.5F,2111,3395056.209,694.34,574.023,535.778,1,1,469421.643,1,34.512,138.59,88.178,*Extensive tearing *Very large vasculature in decidua *ZO band thin and diffuse in middle
