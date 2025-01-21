@@ -4,6 +4,7 @@ library(cetcolor)
 library(dplyr)
 
 test <- read.csv("CleanedTempFiles/INDIVIDUAL_FILE_NAME_HERE.csv")
+test <- read.csv("CleanedTempFiles/167DAA18_PTT2-B7.csv")
 dates <- read.csv("Raw_Data/MetaData_forTemperatureExperiments.csv", header = TRUE)
 
 ID <- test$Tag.ID[1]
