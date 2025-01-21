@@ -1,3 +1,5 @@
+##written and revised by K. Wilsterman and Chloe E. Butler
+
 library(dplyr)
 library(zoo)
 
